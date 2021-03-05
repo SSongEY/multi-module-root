@@ -1,0 +1,6 @@
+[submodule "module-entity"]
+	path = module-entity
+	url = https://github.com/eunyoung-autocrypt/module-entity.git
+[submodule "module-core"]
+	path = module-core
+	url = https://github.com/eunyoung-autocrypt/module-core.git
